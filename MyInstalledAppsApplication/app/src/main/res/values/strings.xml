@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_list">Apps List</string>
+    <string name="search">Search</string>
+    <string name="image">Image</string>
+</resources>
